@@ -187,6 +187,7 @@ html {
     right: -40rem;
     background-color: #fff;
     transition: right 0.5s;
+    z-index: 100;
 }
 
 .change .sidebar {
@@ -458,4 +459,5 @@ html {
     color: #eee;
     border-radius: 0.3rem;
     box-shadow: 0 0.1rem 0.8rem rgba(0, 0, 0, 0.4);
+    cursor: pointer;
 }
